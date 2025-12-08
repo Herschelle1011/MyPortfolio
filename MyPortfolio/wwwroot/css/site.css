@@ -1,0 +1,412 @@
+html, body {
+    margin: 0 !important;
+    padding: 0;
+}
+body {
+    background-color: #F2F2F2;
+}
+
+
+.side-bar {
+    position: absolute;
+    left: -10px;
+    width: 201px;
+    top: -10px;
+    max-width: 100px;
+    background-color: white;
+    padding: 10px;
+    height: 101%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.logo {
+    font-size: 40px;
+    position: absolute;
+    top: 20px;
+    color: black !important;
+    margin-left: 15px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.elements-sidebar {
+    font-size: 40px;
+    margin-left: 15px;
+    position: absolute;
+    top: 250px;
+}
+
+.bi-person-badge, .bi-info-lg, .bi-person-lines-fill, .bi-motherboard {
+    display: block;
+    padding: 10px;
+    width: 100%;
+    color: black !important;
+    border-radius: 10px !important;
+    transition: 0.2s ease-in-out;
+}
+.bi-person-lines-fill{
+    font-size: 38px;
+}
+.bi-motherboard {
+    font-size: 38px;
+}
+
+.bi-info-lg:hover {
+    background-color: black;
+    color: white !important;
+    width: 100%;
+    margin-left: 0;
+    border-radius: 10px !important;
+    transition: 0.3s ease-in-out;
+}
+
+
+.bi-person-badge:hover {
+    background-color: black;
+    color: white !important;
+    width: 100%;
+    margin-left: 0;
+    border-radius: 10px !important;
+    transition: 0.3s ease-in-out;
+}
+.bi-person-lines-fill:hover {
+    background-color: black;
+    color: white !important;
+    width: 100%;
+    margin-left: 0;
+    border-radius: 10px !important;
+    transition: 0.3s ease-in-out;
+}
+.bi-motherboard:hover {
+    background-color: black;
+    color: white !important;
+    width: 100%;
+    margin-left: 0;
+    border-radius: 10px !important;
+    transition: 0.3s ease-in-out;
+}
+
+
+
+.thick-line {
+    border: none;
+    border-top: 3px solid black;
+    color: black;
+    width: 30%;
+ 
+    opacity: 1;
+}
+
+
+.page {
+    width: 15%;
+    position: absolute;
+    left: 50px;
+    margin: 70px;
+    margin-left: 100px;
+}
+.info-content{
+    margin: 20px;
+    padding: 20px;
+    margin-top: 15%;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.lastName, .name {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 100px;
+}
+.name {
+    font-weight: lighter;
+    font-size: 80px;
+}
+
+.role {
+    font-family: "Lexend Mega", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 30px;
+    font-style: normal;
+}
+
+.right-sideBar {
+    position: absolute;
+    margin: 20px;
+    right: -40px !important;
+    top: 200px;
+    background-color: white;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    height: auto;
+    border-radius: 15px;
+    max-width: 100px;
+    padding: 10px;
+    color: black !important;
+}
+
+.right-elements {
+    font-size: 40px !important;
+    margin: 10px;
+}
+
+.profile img {
+    border-radius: 50%;
+    width: 500px;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+.short-description {
+    font-family: "TASA Orbiter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 25px;
+    margin-top: 40px;
+    text-align: justify;
+    max-width: 500px;
+}
+
+.image2 img{
+    border-radius: 30px;
+    width: 400px;
+    height: auto;
+    position: absolute;
+    left: 40px;
+    margin-left: 200px;
+    margin-top: 280px;
+}
+.about-content {
+    position: absolute;
+    top: 27%;
+    margin-left: 400px;
+}
+.about{
+    font-size: 40px;
+}
+
+.about-description {
+    margin-top: 30px;
+    width: 60%;
+    text-align: justify;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+.contact-header{
+
+}
+
+.contact-me-Content {
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
+
+.contact-description {
+
+    width: 50%;
+    text-align: justify;
+}
+
+.box-icons {
+    border: 2px solid black;
+    background-color: white;
+    padding: 15px;
+    width: 350px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: 35px;
+}
+
+.bi-envelope-fill {
+    color: #F4A300;
+}
+.bi-telephone-fill {
+    color: forestgreen;
+}
+
+.bi-envelope-fill, .bi-telephone-fill {
+    margin-right: 10px;
+    font-size: 20px;
+}
+.box-elements{
+    margin: 15px;
+}
+
+.email, .phone {
+    display: flex !important;
+}
+
+
+
+.input-icon {
+    position: relative;
+}
+    .input-icon i {
+        position: absolute;
+        left: 12px;
+        top: 40%;
+      
+        transform: translateY(-50%);
+        font-size: 20px;
+        color: gray;
+    }
+
+    .input-icon input {
+        padding-left: 40px;
+        height: 45px;
+        font-size: 16px;
+    }
+
+
+.message-box {
+    width: 500px;
+    height: 600px;
+    border-radius: 20px;
+    background-color: white;
+    border: 2px solid black;
+    padding: 10px;
+    position: absolute;
+    left: 65%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+input {
+    border-radius: 25px;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.elements{
+    padding: 20px;
+}
+
+.lblname, .lblEmail, .lblPhone, .lblmessage {
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.submit {
+    border: 2px solid black;
+    color: black;
+    border-radius: 25px;
+    width: 100%;
+    font-weight: bolder;
+    padding: 10px;
+    text-align: center;
+    margin-top: 60px;
+    transition: 0.2s ease-in-out;
+}
+
+.submit:hover{
+    background-color: black;
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+
+.input-user:hover, .input-email:hover, .input-phone:hover {
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+
+.input-icon input {
+    padding-left: 40px;
+    height: 45px;
+    font-size: 16px;
+}
+
+textarea{
+    padding: 10px;
+    border-radius: 10px !important;
+    height: 100px !important;
+    width: 100%;
+}
+
+.cards {
+    width: 1000px;
+    position: absolute;
+    top: 55%;
+    display: flex;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.title{
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+}
+
+.card-box {
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    height: auto;
+    color: black;
+    border-radius: 15px;
+    border: 3px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-box img{
+    width: 100px;
+    height: auto;
+}
+
+.percentage{
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    background-color: orange;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.ssms img {
+    width: 92px;
+}
+
+.figma img{
+    width: 95px;
+}
+
+.skill-text {
+    width: 800px;
+    text-align: center;
+
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.skills {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+
+
+
+
+
+
+

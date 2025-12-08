@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MyPortfolio</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MyPortfolio.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+</head>
+<body>
+    <header>
+    </header>
+    <div class="container">
+            @RenderBody()
+    </div>
+
+    <div class="side-bar">
+        <div class="logo">HL</div>
+
+        <div class="elements-sidebar">
+            <a asp-page="/Index">
+                <i class="bi bi-info-lg" id="info" data-tooltip="Info"></i>
+            </a>
+
+            <a asp-page="/About">
+                <i class="bi bi-person-badge" id="about" data-tooltip="About"></i>
+            </a>
+
+
+            <a asp-page="/Skills">
+                <i class="bi bi-motherboard text-black" id="Skills" data-tooltip="Settings"></i>
+            </a>
+
+            <a asp-page="/Contact">
+                <i class="bi bi-person-lines-fill" id="contact" data-tooltip="Contact"></i>
+            </a>
+
+        </div>
+    </div>
+
+
+    <div class="right-sideBar">
+        <div class="right-elements">
+            <a href="https://www.facebook.com/hers.chelle.54">
+                <i class="bi bi-facebook text-black"></i>
+            </a>
+
+            <a href="https://www.instagram.com/herssschelleee/">
+                <i class="bi bi-instagram  text-black"></i>
+            </a>
+
+            <a href="https://github.com/Herschelle1011">
+                <i class="bi bi-github  text-black "></i>
+            </a>
+
+            <a href="http://t.me/Herschelle101">
+                <i class="bi bi-telegram text-black"></i>
+            </a>
+        </div>
+    </div>
+  
+
+    <footer class="footer text-muted">
+        <div class="container">
+            &copy; 2025 - MyPortfolio - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
