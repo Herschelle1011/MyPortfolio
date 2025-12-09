@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\MyPortfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\admin\\proel project\\myportfolio\\myportfolio\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\admin\\proel project\\myportfolio\\myportfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\admin\\proel project\\myportfolio\\myportfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\dell\\documents\\myportfolio\\myportfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\admin\\proel project\\myportfolio\\myportfolio\\pages\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\dell\\documents\\myportfolio\\myportfolio\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\dell\\documents\\myportfolio\\myportfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\dell\\documents\\myportfolio\\myportfolio\\pages\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\pages\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\admin\\proel project\\myportfolio\\myportfolio\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\dell\\documents\\myportfolio\\myportfolio\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\admin\\proel project\\myportfolio\\myportfolio\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\dell\\documents\\myportfolio\\myportfolio\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{868FCEDC-3E4D-4923-8F41-0D0ABDD66537}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -34,27 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MyPortfolio\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\site.css",
               "RelativeToolTip": "MyPortfolio\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAIABAAAAAAAAAAAAAJIBAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAIABAAAAAAAAAAAAAIoBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-08T08:27:51.787Z"
+              "WhenOpened": "2025-12-08T08:27:51.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Skills.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\Pages\\Skills.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\Pages\\Skills.cshtml",
               "RelativeDocumentMoniker": "MyPortfolio\\Pages\\Skills.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\Pages\\Skills.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\Pages\\Skills.cshtml",
               "RelativeToolTip": "MyPortfolio\\Pages\\Skills.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -64,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\Pages\\Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\Pages\\Contact.cshtml",
               "RelativeDocumentMoniker": "MyPortfolio\\Pages\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\Pages\\Contact.cshtml",
               "RelativeToolTip": "MyPortfolio\\Pages\\Contact.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -76,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\Pages\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\Pages\\About.cshtml",
               "RelativeDocumentMoniker": "MyPortfolio\\Pages\\About.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\Pages\\About.cshtml",
               "RelativeToolTip": "MyPortfolio\\Pages\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -86,24 +87,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "MyPortfolio\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\Pages\\Index.cshtml",
               "RelativeToolTip": "MyPortfolio\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-08T08:19:14.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MyPortfolio\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\PROEL PROJECT\\MyPortfolio\\MyPortfolio\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\MyPortfolio\\MyPortfolio\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MyPortfolio\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

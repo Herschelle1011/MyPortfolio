@@ -31,3 +31,37 @@ C:\Users\Admin\PROEL PROJECT\MyPortfolio\MyPortfolio\obj\Debug\net8.0\refint\MyP
 C:\Users\Admin\PROEL PROJECT\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.pdb
 C:\Users\Admin\PROEL PROJECT\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.genruntimeconfig.cache
 C:\Users\Admin\PROEL PROJECT\MyPortfolio\MyPortfolio\obj\Debug\net8.0\ref\MyPortfolio.dll
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\bin\Debug\net8.0\MyPortfolio.staticwebassets.runtime.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\bin\Debug\net8.0\MyPortfolio.staticwebassets.endpoints.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\bin\Debug\net8.0\MyPortfolio.exe
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\bin\Debug\net8.0\MyPortfolio.deps.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\bin\Debug\net8.0\MyPortfolio.runtimeconfig.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\bin\Debug\net8.0\MyPortfolio.dll
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\bin\Debug\net8.0\MyPortfolio.pdb
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.AssemblyInfo.cs
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.RazorAssemblyInfo.cache
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.RazorAssemblyInfo.cs
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.sourcelink.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\scopedcss\bundle\MyPortfolio.styles.css
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\scopedcss\projectbundle\MyPortfolio.bundle.scp.css
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.dll
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\refint\MyPortfolio.dll
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.pdb
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\MyPortfolio.genruntimeconfig.cache
+C:\Users\DELL\Documents\MyPortfolio\MyPortfolio\obj\Debug\net8.0\ref\MyPortfolio.dll
